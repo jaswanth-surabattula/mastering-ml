@@ -3,8 +3,6 @@
 ## What is a Neural Network?
 A neural network is a computational model inspired by the way biological neural networks in the human brain process information. It consists of layers of interconnected nodes (neurons), where each connection has an associated weight.
 
-![Basic Neural Network Structure](https://i.imgur.com/0VjOenD.png)
-
 ## Basic Components
 - **Neuron (Node):** The basic unit of a neural network that processes input and produces an output.
 - **Weight ($`w`$):** A parameter that adjusts the input's influence on the neuron's output.
@@ -87,8 +85,6 @@ Given:
    `$
 
 The final output $`0.676`$ suggests the image is more likely to be classified as 1 (assuming a threshold of 0.5).
-
-![Neural Network Example](https://i.imgur.com/vcGJg94.png)
 
 ## Conclusion
 Neural networks process inputs through layers of interconnected neurons, using weights, biases, and activation functions to make predictions. Understanding these basics helps in building more complex models for tasks like image classification.
